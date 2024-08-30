@@ -10,7 +10,7 @@ This is a simple yet awesome project that creates a set of expanding cards. Clic
 ## 🛠️ How to Use
 
 1. **Clone the repo**:  
-   `git clone https://github.com/py-hariom/new-me-1`
+   `git clone https://github.com/DataScience-With-Python/Youtube_lecture`
 
 2. **Navigate to the folder**:  
    `cd expanding-cards`
